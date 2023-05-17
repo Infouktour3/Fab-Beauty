@@ -102,4 +102,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   To the tutor support at Code Institute.
 
-- 
+
+###Deploy
+
+##Test(talk)- https://infouktour3.github.io/Fab-Beauty/
