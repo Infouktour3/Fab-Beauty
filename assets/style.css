@@ -58,7 +58,7 @@
 
 }
 
-/* first section under the header */
+/* first section under the header with business image */
 
 #beauty-image {
     background-repeat: no-repeat;
@@ -82,7 +82,7 @@
 }
 
 
-/* second section under the image section */
+/* second section under the image section  about us business*/
 
 #welcome {
     background-repeat: no-repeat;
@@ -150,7 +150,7 @@
 }
 
 
-/* 3th section picture under the about us section */
+/* 3rd section pictures under the about us section to link the text to the image */
 
 
 #apollo {
@@ -188,7 +188,7 @@
     height: 800%;
 }
 
-
+/* timetable and map */
 #times {
     background-repeat: no-repeat;
     background-size: cover;
@@ -196,8 +196,6 @@
     width: 100%;
     overflow: hidden;
 }
-
-/* timetable and map */
 
 #times div {
 
@@ -234,8 +232,6 @@
     color: gray;
 }
 
-
-
 #times img {
     background-repeat: no-repeat;
     float: left;
@@ -248,7 +244,7 @@
     display: flex;
 }
 
-/* Gallery page */
+/* Gallery page business pictures */
 .container {
     flex-wrap: wrap;
     display: flex;
@@ -277,7 +273,7 @@
 
 
 
-/* Contact Us page */
+/* Contact Us page form for sign-up */
 #form {
     overflow: hidden;
     border: hidden;
@@ -289,7 +285,7 @@
 }
 
 
-/* Fill Form */
+/* Fill Form  box*/
 #form span {
     color: red;
 }
@@ -389,7 +385,7 @@
 
 
 
-/* Footer bar */
+/* Footer bar with telephone number and social-media links*/
 #footer {
     clear: both;
     background-repeat: no-repeat 0;
@@ -439,7 +435,7 @@
 
 
 
-/* Responsive layout - for nav bar */
+/* Responsive layout for differents devices*/
 @media (max-width: 900px) {
     #times div{
         width: 50%;
