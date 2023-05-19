@@ -1,11 +1,13 @@
-# P1-Beauty
-!(Mock Up) (/workspace/P1-Beauty/.docs/All-devices- TESTED.png) (https://infouktour3-p1beauty-4tskpblh22f.ws-eu97.gitpod.io/)
+# Fab-Beauty
+!(Mock Up) (/workspace/Fab-Beauty/.docs/All-devices- TESTED.png) (https://infouktour3-fabbeauty-zikbrwxehwt.ws-eu97.gitpod.io/)ng)
 
-[View the live project here.](https://8000-infouktour3-p1beauty-pc8yafcytib.ws-eu96b.gitpod.io/index.html)
+)
+
+[View the live project here.](https://infouktour3.github.io/Fab-Beauty/)
 
 This is the main Beauty Salon website. It is designed to be responsibe on a range of devices, making it easy to navigate to the reader and visitors.
 
-<div id="beauty-image"><img src="/workspace/P1-Beauty/assets/photo/salon.jpg"></h2>
+<div id="beauty-image"><img src="/workspace/Fab-Beauty/assets/photo/salon.jpg"></h2>
 
 ## User Experience (UX)
 
@@ -61,30 +63,35 @@ This is the main Beauty Salon website. It is designed to be responsibe on a rang
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 4.4.1:]
-    - Bootstrap has been visited to assist me with the idea to create a responsiveness website but I used my code.
+    - Bootstrap has been visited to assist me with the idea to create a responsiveness webssite and navigation bar it help me a bit but I used at the end w3 school site.
 1. [Hover.css:] (/workspace/P1-Beauty/assets/photo/salon.jpg)
     - Hover.css was used on the top bar on the Logo and on the right navigations words to move from one page and another and return on it also has been added the hover for the social media links on the website footer.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on the first and last page of the site to decorate some part with icons for aesthetic and UX purposes.
-1. [jQuery:]
-    - jQuery has been visited but carried on with the html and css codes.
+    - Font Awesome was used on the first and last page of the site to decorate some parts with icons for aesthetic and UX purposes.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal and workspace to save the project and to commit to Git and Push to GitHub in the repositore the project.
 1. [GitHub:](https://github.com/)
-    - GitHub has been used to store the projects code after being pushed from Git.
+    - GitHub has been used to store the projects code after being pushed from Gitpod and workspace. Plus to cloen and deploy my project.
 1. [Pexels:] (https://www.pexels.com/)
-    - Pexels was used to add clean images to the website expecialy on the home page and gallery.to resize the image I used the laptop correction photo.
+    - Pexels was used to add clean images to the website expecialy on the home page and gallery to resize the image I used the laptop correction photo.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was visited to gather some idea on starting the design process even if I used my imagination at the end.
 1.  [jQuery:](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-    - jQuery find some information in bootstrap and in code istitue(https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/b47eaee24847486eb4424dfa29890cc0/)  on use to have a responsive website for different devices.
+    - jQuery find some information in bootstrap and in code istitue(https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/b47eaee24847486eb4424dfa29890cc0/)  on use to have a responsive website for different devices. I have also used different source like youtube and W3school sites to improve the responsiveness of the website.
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of html and css of the project to ensure there were no syntax errors.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of html and css of the project to ensure there were no syntax errors. The website has been deployed also trough GitHub for futher testiung.
 
 -   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://validator.w3.org/) - [Results](https://github.com/)
+
+## Depy
+I deployed the website following these steps on GitHub (home-page, setting, page-list, deploy from a branch, main, save) and it generated this code (https://infouktour3.github.io/Fab-Beauty/)
+
+## Clone
+The website has been cloned in the GitHub platform from P1-Beauty to Fab-Beauty, following this steps:
+GitHub home-page , repositories, open the project, on the code bottom open the arrow list ,and press copy bottom and it will be cloned on the repositories page.
 
 ### Code
 
@@ -103,6 +110,3 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   To the tutor support at Code Institute.
 
 
-###Deploy
-
-##Test(talk)- https://infouktour3.github.io/Fab-Beauty/
