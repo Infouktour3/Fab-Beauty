@@ -82,8 +82,10 @@ Looked into Balsamiq to have an idea and carried on with word file coverted in p
 ## Testing
 
 I have tested the website on W3C Markup Validator and W3C CSS Validator Services were used to validate every page of html and css of the project to ensure there were no syntax errors. A lot of  range of testing was done to ensure that all pages were linking correctly. The website has been deployed also trough GitHub for futher testiung.
--   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/)
--   [W3C CSS Validator](https://validator.w3.org/) - [Results](https://github.com/)
+-   [W3C Markup Validator](docs/HomePage-Validator.png)(https://validator.w3.org/) - [Results](https://github.com/)
+[W3C Markup Validator](docs/Gallery-Validator.png)(https://validator.w3.org/) - [Results](https://github.com/)
+[W3C Markup Validator](docs/ContactUs-Validator.png)(https://validator.w3.org/) - [Results](https://github.com/)
+-   [W3C CSS Validator](docs/CssValidtor.png) - [Results](https://github.com/)
 [image](docs/mockup.png)
 
 ## Deploying
