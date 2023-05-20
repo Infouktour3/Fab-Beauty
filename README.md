@@ -9,6 +9,7 @@ This is the main Beauty Salon website. It is designed to be responsibe on a rang
 ## User Experience (UX)
 
 -   ### User stories
+Looked into Balsamiq to have an idea and carried on with word file coverted in pjg [image](docs/WIREFRAMESpage01.jpg)[image](docs/WIREFRAMESpage02.jpg)[image](docs/WIREFRAMESpage03.jpg)
 
     -   #### First Time Visitor Goals
 
@@ -19,21 +20,21 @@ This is the main Beauty Salon website. It is designed to be responsibe on a rang
     -   #### Returning Visitor Goals
 
         1. Returning Visitor wants to find more information about products and services the business provides.
-        2. Returning Visitor wants make sure that the comapany is easy to reach with a landline or mobile phone number with its phisical location.
-        3. Returning Visitor wants to find social media links.
+        2. Returning Visitor wants make sure that the comapany is easy to reach with a landline or mobile phone number with its phisical location where it has been added.
+        3. Returning Visitor wants to find social media links and I have created 3 pmain sources of social-media link that take to the visitor inside the social-media page in a different window.
 
     -   #### Frequent User Goals
-        1. Frequent User wants to check new products arrival or products that in that moments they need.
-        2. User wants to check some new extra information through post and social media to see if the business is healfy.
-        3. User wants to sign up to book an appointment for treatments or consutation or simply to gather more info before go haed with the choise.
+        1. Frequent User wants to check new products arrival or products that in that moments they need,  by subscribe sign-up the user got access to a news products or get informed on the new arrival date, plus it can be chached in the social-media link.
+        2. User wants to check some new extra information through post and social media to see if the business is healfy, creating the social-media links give at the business more transparency and in the same time more trust at the user.
+        3. User wants to sign up to book an appointment for treatments or consutation or simply to gather more info before go haed with the choise they want, on the contact us page the visitor will be able to sign-up with an easy steps form that will help the visitor to don't get boder if it is to complicated to fill in.
 
 -   ### Design
     -   #### Colour Scheme
-        -   The predominate colour is pink with some grey and white gradiants to make some effect and make the site more attractive.
+        -   The predominate colour is pink with some grey and white gradiants to make some effect and make the site more attractive, with some light pink colour around the pages to be more tune with a beauty salon business.
     -   #### Typography
-        -   The font used on the  website are Arial and Sans Serif as their are the most common font used today the font is cleaned is shows good read letters for all reader. 
+        -   The font used on the  website are Arial and Sans Serif as their are the most common font used today the font is cleaned is shows good read letters for all reader, even when the web site is used with different devices. 
     -   #### Imagery
-        -   The first image is posted just straight under the header to catch the visitors attention and transmit the business message.
+        -   The first image is posted just straight under the header to catch the visitors attention and transmit the business message. [image](assets/photo/salonx1.jpg)
 
 *   ### Wireframes
 
@@ -94,7 +95,7 @@ GitHub home-page , repositories, open the project, on the code bottom open the a
 
 ### Code
 
-- html and css were written through github (https://github.com/Code-Institute-Solutions/GitHub/tree/master/04-readme_files/challenge_solution) workspace/repositories
+- html and css were written through github (https://infouktour3-fabbeauty-vehklp0rvxa.ws-eu97.gitpod.io/) workspace/repositories
 
 ### Content
 
@@ -104,7 +105,9 @@ GitHub home-page , repositories, open the project, on the code bottom open the a
 
 -   All Images were founded in Pexels.com (https://www.pexels.com/) and ammend accordely by myself.
 - Used font awesome to add icons to the social-media links and on the about us section and time-table section to make more ahestetic the design (https://fontawesome.com/icons).
-[image](assets/photo/GoogleMap.webp,assets/photo/newproduct.webp) (/assets/photo/p1.jpg)
+[image](assets/photo/certificate.webp)[image](assets/photo/GoogleMap.webp) [image](assets/photo/newproduct.webp) [image](/assets/photo/p1.jpg) [image](/assets/photo/p2.jpg)[image](/assets/photo/p3.jpg)
+[image](/assets/photo/p4.jpg)[image](/assets/photo/p5.jpg)[image](/assets/photo/p6.jpg)[image](/assets/photo/p7.jpg)[image](/assets/photo/p8.jpg)[image](/assets/photo/p9.jpg)[image](assets/photo/salonx1.jpg)
+[image](assets/photo/sol10.jpg)[image](assets/photo/sol11.jpg) [image](assets/photo/sol12.jpg)
 
 ### Acknowledgements
 
