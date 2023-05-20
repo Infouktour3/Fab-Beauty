@@ -1,13 +1,10 @@
 # Fab-Beauty
-!(Mock Up) (/workspace/Fab-Beauty/.docs/All-devices- TESTED.png) (https://infouktour3-fabbeauty-zikbrwxehwt.ws-eu97.gitpod.io/)ng)
-
-)
+![mock-up](docs/mockup.png) 
 
 [View the live project here.](https://infouktour3.github.io/Fab-Beauty/)
 
 This is the main Beauty Salon website. It is designed to be responsibe on a range of devices, making it easy to navigate to the reader and visitors.
 
-<div id="beauty-image"><img src="/workspace/Fab-Beauty/assets/photo/salon.jpg"></h2>
 
 ## User Experience (UX)
 
@@ -15,24 +12,24 @@ This is the main Beauty Salon website. It is designed to be responsibe on a rang
 
     -   #### First Time Visitor Goals
 
-        1. First Time Visitor, has to be made to read and understand the business fast and the site show the business services with images and words so the visitors can understand the business at the first glance.
-        2. First Time Visitor, will be able to easily navigate throughout the site to find content through the top bar.
-        3. First Time Visitor, wants also verify the business through the social media links to see how many followers and comments the business got to determine the trust and the age of the business.
+        1. The website is made to read and understand the business fast and the site show the business services with images and words so the visitors can understand the business at the first glance.
+        2. It will be able to easily navigate throughout the site to find content through the top bar to help the visitors.
+        3.Visitors want also verify the business through the social media links to see how many followers and comments the business got to determine the trust and the age of the business.
 
     -   #### Returning Visitor Goals
 
-        1. Returning Visitor, wants to find more information about products and services the business provides.
-        2. Returning Visitor, wants make sure that the comapany is easy to reach with a landline or mobile phone number with its full phisical address.
-        3. Returning Visitor, wants to find social media links.
+        1. Returning Visitor wants to find more information about products and services the business provides.
+        2. Returning Visitor wants make sure that the comapany is easy to reach with a landline or mobile phone number with its phisical location.
+        3. Returning Visitor wants to find social media links.
 
     -   #### Frequent User Goals
-        1. Frequent User, wants to check new products arrival or products that in that moments they need.
-        2. Frequent User, wants to check some new extra information through post and social media to see if the business is healfy.
-        3. Frequent User, wants to sign up to book an appointment for treatments or consutation or simply to gather more info before go haed with the choise.
+        1. Frequent User wants to check new products arrival or products that in that moments they need.
+        2. User wants to check some new extra information through post and social media to see if the business is healfy.
+        3. User wants to sign up to book an appointment for treatments or consutation or simply to gather more info before go haed with the choise.
 
 -   ### Design
     -   #### Colour Scheme
-        -   The predominate colour is pink with some grey and whote gradiants to make some effect and make the site more attractive.
+        -   The predominate colour is pink with some grey and white gradiants to make some effect and make the site more attractive.
     -   #### Typography
         -   The font used on the  website are Arial and Sans Serif as their are the most common font used today the font is cleaned is shows good read letters for all reader. 
     -   #### Imagery
@@ -40,17 +37,18 @@ This is the main Beauty Salon website. It is designed to be responsibe on a rang
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://infouktour3-fabbeauty-xdtmr2xd6dq.ws-eu97.gitpod.io/)
+    -   Home Page Wireframe - [View](docs/WIREFRAMESpage01.jpg)
 
-    -   Gallery Wireframe - [View](https://github.com/)
+    -   Gallery Wireframe - [View](docs/WIREFRAMESpage02.jpg)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Contact Us Page Wireframe - [View](docs/WIREFRAMESpage03.jpg)
 
 ## Features
 
 -   Responsive for all diplay screen device sizes
 
 -   Associated elements
+![Responsiveness](docs/mockup.png)
 
 ## Technologies Used
 -  Laptop
@@ -64,7 +62,7 @@ This is the main Beauty Salon website. It is designed to be responsibe on a rang
 
 1. [Bootstrap 4.4.1:]
     - Bootstrap has been visited to assist me with the idea to create a responsiveness webssite and navigation bar it help me a bit but I used at the end w3 school site.
-1. [Hover.css:] (/workspace/P1-Beauty/assets/photo/salon.jpg)
+1. [Hover.css:] [view](/assets/style.css) (https://github.com/)
     - Hover.css was used on the top bar on the Logo and on the right navigations words to move from one page and another and return on it also has been added the hover for the social media links on the website footer.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on the first and last page of the site to decorate some parts with icons for aesthetic and UX purposes.
@@ -75,19 +73,20 @@ This is the main Beauty Salon website. It is designed to be responsibe on a rang
 1. [Pexels:] (https://www.pexels.com/)
     - Pexels was used to add clean images to the website expecialy on the home page and gallery to resize the image I used the laptop correction photo.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was visited to gather some idea on starting the design process even if I used my imagination at the end.
+    - Balsamiq was visited to gather some idea on starting the design process even if I used my imagination at the end and created it with a word file and coverted in pjg. [image](docs/WIREFRAMESpage01.jpg) [image](docs/WIREFRAMESpage02.jpg) [image](docs/WIREFRAMESpage03.jpg)
+
 1.  [jQuery:](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
     - jQuery find some information in bootstrap and in code istitue(https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/b47eaee24847486eb4424dfa29890cc0/)  on use to have a responsive website for different devices. I have also used different source like youtube and W3school sites to improve the responsiveness of the website.
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of html and css of the project to ensure there were no syntax errors. The website has been deployed also trough GitHub for futher testiung.
-
+I have tested the website on W3C Markup Validator and W3C CSS Validator Services were used to validate every page of html and css of the project to ensure there were no syntax errors. A lot of  range of testing was done to ensure that all pages were linking correctly. The website has been deployed also trough GitHub for futher testiung.
 -   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://validator.w3.org/) - [Results](https://github.com/)
+[image](docs/mockup.png)
 
-## Depy
-I deployed the website following these steps on GitHub (home-page, setting, page-list, deploy from a branch, main, save) and it generated this code (https://infouktour3.github.io/Fab-Beauty/)
+## Deploying
+I deployed the website following these steps on GitHub (home-page, setting, page-list on the left handside, deploy from a branch, main, save) and it has generated this code (https://infouktour3.github.io/Fab-Beauty/)
 
 ## Clone
 The website has been cloned in the GitHub platform from P1-Beauty to Fab-Beauty, following this steps:
@@ -101,9 +100,11 @@ GitHub home-page , repositories, open the project, on the code bottom open the a
 
 -   All content was written by myself.
 
-### Media
+### Media/Images
 
 -   All Images were founded in Pexels.com (https://www.pexels.com/) and ammend accordely by myself.
+- Used font awesome to add icons to the social-media links and on the about us section and time-table section to make more ahestetic the design (https://fontawesome.com/icons).
+[image](assets/photo/GoogleMap.webp,assets/photo/newproduct.webp) (/assets/photo/p1.jpg)
 
 ### Acknowledgements
 
