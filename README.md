@@ -3,7 +3,7 @@
 
 [View the live project here.](https://infouktour3.github.io/Fab-Beauty/)
 
-This is the main Beauty Salon website. It is designed to be responsibe on a range of devices, making it easy to navigate to the reader and visitors.
+This is the main Beauty Salon website. It is designed to be responsibe on a range of devices, making it easy to navigate for the reader and visitors.
 
 
 ## User Experience (UX)
@@ -13,9 +13,9 @@ Looked into Balsamiq to have an idea and carried on with word file coverted in p
 
     -   #### First Time Visitor Goals
 
-        1. The website is made to read and understand the business fast and the site show the business services with images and words so the visitors can understand the business at the first glance.
-        2. It will be able to easily navigate throughout the site to find content through the top bar to help the visitors.
-        3.Visitors want also verify the business through the social media links to see how many followers and comments the business got to determine the trust and the age of the business.
+        1. The website is made to read and understand the business fast and the site shows the business services with images and words so the visitors can understand the business at the first glance.
+        2. The User will be able to easily navigate throughout the site to find content through the top bar menu and the visitor can decide which page is more useful for them and if the get lost with some info they can go back to the Home page.
+        3.Visitors want also verify the business through the social media to see how many followers and comments the business got to determine the trust and the age of the business, the three more famous social-media are added with a link that take the user inside the choseen social-media they want most to see.
 
     -   #### Returning Visitor Goals
 
@@ -26,7 +26,7 @@ Looked into Balsamiq to have an idea and carried on with word file coverted in p
     -   #### Frequent User Goals
         1. Frequent User wants to check new products arrival or products that in that moments they need,  by subscribe sign-up the user got access to a news products or get informed on the new arrival date, plus it can be chached in the social-media link.
         2. User wants to check some new extra information through post and social media to see if the business is healfy, creating the social-media links give at the business more transparency and in the same time more trust at the user.
-        3. User wants to sign up to book an appointment for treatments or consutation or simply to gather more info before go haed with the choise they want, on the contact us page the visitor will be able to sign-up with an easy steps form that will help the visitor to don't get boder if it is to complicated to fill in.
+        3. User wants to sign up to book an appointment for treatments or consutation or simply to gather more info before go haed with the choise they want, on the contact us page the visitor will be able to sign-up with an easy steps form that will help the visitor to don't get boder if it is too complicated to fill in.
 
 -   ### Design
     -   #### Colour Scheme
