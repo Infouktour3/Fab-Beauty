@@ -70,7 +70,6 @@
 }
 
 #beauty-image img {
-    height: 400px;
     width: 100%;
 }
 
@@ -248,7 +247,7 @@
 .container {
     flex-wrap: wrap;
     display: flex;
-    max-width: 1400px;
+   
 }
 
 .container img {
@@ -431,6 +430,7 @@
 #footer .tel:hover {
     color: #6be1f1;
 }
+
 
 
 
