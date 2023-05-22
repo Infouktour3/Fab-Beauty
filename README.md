@@ -1,10 +1,10 @@
 # Fab-Beauty
+
 ![mock-up](docs/mockup.png) 
 
 [View the live project here.](https://infouktour3.github.io/Fab-Beauty/)
 
 This is the main Beauty Salon website. It is designed to be responsibe on a range of devices, making it easy to navigate for the reader and visitors.
-
 
 ## User Experience (UX)
 
@@ -14,7 +14,7 @@ Looked into Balsamiq to have an idea and carried on with word file coverted in p
  #### First Time Visitor Goals
  1. The website is made to read and understand the business fast and the site shows the business services with images and words so the visitors can understand the business at the first glance.
  2. The User will be able to easily navigate throughout the site to find content through the top bar menu and the visitor can decide which page is more useful for them and if the get lost with some info they can go back to the Home page.
- 3.Visitors want also verify the business through the social media to see how many followers and comments the business got to determine the trust and the age of the business, the three more famous social-media are added with a link that take the user inside the choseen social-media they want most to see.
+ 3. Visitors want also verify the business through the social media to see how many followers and comments the business got to determine the trust and the age of the business, the three more famous social-media are added with a link that take the user inside the choseen social-media they want most to see.
 
  #### Returning Visitor Goals
 1. Returning Visitor wants to find more information about products and services the business provides.
@@ -41,9 +41,8 @@ The first image is posted just straight under the header to catch the visitors a
 - Contact Us Page Wireframe - [View](docs/WIREFRAMESpage03.jpg)
 
 ## Features
-  Responsive for all diplay screen device sizes
-  Associated elements
-![Responsiveness](docs/mockup.png)
+  
+
 
 ## Technologies Used
 Laptop
@@ -76,18 +75,30 @@ Laptop
 ## Testing
 
 I have tested the website on W3C Markup Validator and W3C CSS Validator Services were used to validate every page of html and css of the project to ensure there were no syntax errors. A lot of  range of testing was done to ensure that all pages were linking correctly. The website has been deployed also trough GitHub for futher testiung.
--   [W3C Markup Validator](docs/HomePage-Validator.png)(https://validator.w3.org/) - [Results](https://github.com/)
-[W3C Markup Validator](docs/Gallery-Validator.png)(https://validator.w3.org/) - [Results](https://github.com/)
-[W3C Markup Validator](docs/ContactUs-Validator.png)(https://validator.w3.org/) - [Results](https://github.com/)
--   [W3C CSS Validator](docs/CssValidtor.png) - [Results](https://github.com/)
-[image](docs/mockup.png)
+
+![W3C Markup Validator](docs/HomePage-Validator.png)
+
+![W3C Markup Validator](docs/Gallery-Validator.png)
+
+![W3C Markup Validator](docs/ContactUs-Validator.png)
+
+![W3C CSS Validator](docs/CssValidtor.png)
 
 ## Deploying
-I deployed the website following these steps on GitHub (home-page, setting, page-list on the left handside, deploy from a branch, main, save) and it has generated this code (https://infouktour3.github.io/Fab-Beauty/)
+The website has be deployed on git hub pages by complete the following steps:
+- Go to the main repository
+- Click setting
+- Click the page tab on the left list
+- Under branch select main
+- Click save
+The website is now live and can be found ![here](https://infouktour3.github.io/Fab-Beauty/index.html)
 
 ## Clone
 The website has been cloned in the GitHub platform from P1-Beauty to Fab-Beauty, following this steps:
-GitHub home-page , repositories, open the project, on the code bottom open the arrow list ,and press copy bottom and it will be cloned on the repositories page.
+- GitHub home-page 
+- Repositories
+- Open the project
+- n the code bottom open the arrow list ,and press copy bottom and it will be cloned on the repositories page.
 
 ### Code
 
@@ -99,7 +110,7 @@ GitHub home-page , repositories, open the project, on the code bottom open the a
 
 ### Media/Images
 
--   All Images were founded in Pexels.com (https://www.pexels.com/) and ammend accordely by myself.
+-  All Images were founded in Pexels.com (https://www.pexels.com/) and ammend accordely by myself.
 - Used font awesome to add icons to the social-media links and on the about us section and time-table section to make more ahestetic the design (https://fontawesome.com/icons).
 [image](assets/photo/certificate.webp)[image](assets/photo/GoogleMap.webp) [image](assets/photo/newproduct.webp) [image](/assets/photo/p1.jpg) [image](/assets/photo/p2.jpg)[image](/assets/photo/p3.jpg)
 [image](/assets/photo/p4.jpg)[image](/assets/photo/p5.jpg)[image](/assets/photo/p6.jpg)[image](/assets/photo/p7.jpg)[image](/assets/photo/p8.jpg)[image](/assets/photo/p9.jpg)[image](assets/photo/salonx1.jpg)
