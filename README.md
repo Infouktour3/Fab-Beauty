@@ -8,51 +8,45 @@ This is the main Beauty Salon website. It is designed to be responsibe on a rang
 
 ## User Experience (UX)
 
--   ### User stories
+### User stories
 Looked into Balsamiq to have an idea and carried on with word file coverted in pjg [image](docs/WIREFRAMESpage01.jpg)[image](docs/WIREFRAMESpage02.jpg)[image](docs/WIREFRAMESpage03.jpg)
 
-    -   #### First Time Visitor Goals
+ #### First Time Visitor Goals
+ 1. The website is made to read and understand the business fast and the site shows the business services with images and words so the visitors can understand the business at the first glance.
+ 2. The User will be able to easily navigate throughout the site to find content through the top bar menu and the visitor can decide which page is more useful for them and if the get lost with some info they can go back to the Home page.
+ 3.Visitors want also verify the business through the social media to see how many followers and comments the business got to determine the trust and the age of the business, the three more famous social-media are added with a link that take the user inside the choseen social-media they want most to see.
 
-        1. The website is made to read and understand the business fast and the site shows the business services with images and words so the visitors can understand the business at the first glance.
-        2. The User will be able to easily navigate throughout the site to find content through the top bar menu and the visitor can decide which page is more useful for them and if the get lost with some info they can go back to the Home page.
-        3.Visitors want also verify the business through the social media to see how many followers and comments the business got to determine the trust and the age of the business, the three more famous social-media are added with a link that take the user inside the choseen social-media they want most to see.
+ #### Returning Visitor Goals
+1. Returning Visitor wants to find more information about products and services the business provides.
+2. Returning Visitor wants make sure that the comapany is easy to reach with a landline or mobile phone number with its phisical location where it has been added.
+3. Returning Visitor wants to find social media links and I have created 3 pmain sources of social-media link that take to the visitor inside the social-media page in a different window.
 
-    -   #### Returning Visitor Goals
+#### Frequent User Goals
+ 1. Frequent User wants to check new products arrival or products that in that moments they need,  by subscribe sign-up the user got access to a news products or get informed on the new arrival date, plus it can be chached in the social-media link.
+ 2. User wants to check some new extra information through post and social media to see if the business is healfy, creating the social-media links give at the business more transparency and in the same time more trust at the user.
+ 3. User wants to sign up to book an appointment for treatments or consutation or simply to gather more info before go haed with the choise they want, on the contact us page the visitor will be able to sign-up with an easy steps form that will help the visitor to don't get boder if it is too complicated to fill in.
 
-        1. Returning Visitor wants to find more information about products and services the business provides.
-        2. Returning Visitor wants make sure that the comapany is easy to reach with a landline or mobile phone number with its phisical location where it has been added.
-        3. Returning Visitor wants to find social media links and I have created 3 pmain sources of social-media link that take to the visitor inside the social-media page in a different window.
+### Design
+#### Colour Scheme
+     The predominate colour is pink with some grey and white gradiants to make some effect and make the site more attractive, with some light pink colour around the pages to be more tune with a beauty salon business.
+    
+#### Typography
+The font used on the  website are Arial and Sans Serif as their are the most common font used today the font is cleaned is shows good read letters for all reader, even when the web site is used with different devices. 
+#### Imagery
+The first image is posted just straight under the header to catch the visitors attention and transmit the business message. [image](assets/photo/salonx1.jpg)
 
-    -   #### Frequent User Goals
-        1. Frequent User wants to check new products arrival or products that in that moments they need,  by subscribe sign-up the user got access to a news products or get informed on the new arrival date, plus it can be chached in the social-media link.
-        2. User wants to check some new extra information through post and social media to see if the business is healfy, creating the social-media links give at the business more transparency and in the same time more trust at the user.
-        3. User wants to sign up to book an appointment for treatments or consutation or simply to gather more info before go haed with the choise they want, on the contact us page the visitor will be able to sign-up with an easy steps form that will help the visitor to don't get boder if it is too complicated to fill in.
-
--   ### Design
-    -   #### Colour Scheme
-        -   The predominate colour is pink with some grey and white gradiants to make some effect and make the site more attractive, with some light pink colour around the pages to be more tune with a beauty salon business.
-    -   #### Typography
-        -   The font used on the  website are Arial and Sans Serif as their are the most common font used today the font is cleaned is shows good read letters for all reader, even when the web site is used with different devices. 
-    -   #### Imagery
-        -   The first image is posted just straight under the header to catch the visitors attention and transmit the business message. [image](assets/photo/salonx1.jpg)
-
-*   ### Wireframes
-
-    -   Home Page Wireframe - [View](docs/WIREFRAMESpage01.jpg)
-
-    -   Gallery Wireframe - [View](docs/WIREFRAMESpage02.jpg)
-
-    -   Contact Us Page Wireframe - [View](docs/WIREFRAMESpage03.jpg)
+### Wireframes
+- Home Page Wireframe - [View](docs/WIREFRAMESpage01.jpg)
+- Gallery Wireframe - [View](docs/WIREFRAMESpage02.jpg)
+- Contact Us Page Wireframe - [View](docs/WIREFRAMESpage03.jpg)
 
 ## Features
-
--   Responsive for all diplay screen device sizes
-
--   Associated elements
+  Responsive for all diplay screen device sizes
+  Associated elements
 ![Responsiveness](docs/mockup.png)
 
 ## Technologies Used
--  Laptop
+Laptop
 
 ### Languages Used
 
