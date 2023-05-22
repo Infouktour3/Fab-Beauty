@@ -1,10 +1,11 @@
-
+html, body {
+    width: 100%;
+}
 /* Header and navigation bar */
 #top {
     font-family: Oswald, sans-serif;
     clear: both;
     overflow: hidden;
-    height: 200%;
     width: 100%;
     background: radial-gradient(circle, pink, gray);
 }
@@ -239,6 +240,7 @@
     height: 200px;
     margin: 0 auto;
 }
+
 #map {
     display: flex;
 }
@@ -247,27 +249,28 @@
 .container {
     flex-wrap: wrap;
     display: flex;
-   
+
 }
 
 .container img {
-    width: 100%;}
+    width: 100%;
+}
 
 
 /* Responsive layout - makes a one column layout instead of a two-column layout */
 
 @media only screen and (min-width: 600px) {
-    
+
     .container img {
         width: 50%
-    } 
+    }
 }
 
 @media only screen and (min-width: 900px) {
-    
+
     .container img {
         width: 25%
-    } 
+    }
 }
 
 
@@ -303,7 +306,7 @@
     max-width: 1100px;
     height: 420px;
     padding: 30px;
-    
+
 }
 
 .get-in-touch h2 {
@@ -347,40 +350,41 @@
 
 
 @media only screen and (min-width: 600px) {
-    
+
     #form {
-        display:flex;
+        display: flex;
         width: 100%
-    } 
- 
-    .get-in-touch{
-     
+    }
+
+    .get-in-touch {
+
         width: 100%;
     }
 }
 
 @media only screen and (min-width: 900px) {
-    
+
     #form {
-        display:flex;
+        display: flex;
         width: 100%
-    } 
-   
-    .get-in-touch{
-        
+    }
+
+    .get-in-touch {
+
         width: 100%;
     }
 }
 
 @media only screen and (min-width: 1200px) {
-    
+
     #form {
         width: 100%
-    } 
-    
-    .get-in-touch{
+    }
+
+    .get-in-touch {
         width: 100%;
-    }}
+    }
+}
 
 
 
@@ -393,6 +397,7 @@
     width: 100%;
     background: radial-gradient(circle, pink, gray);
     text-align: center;
+    position: sticky;
 }
 
 
@@ -402,7 +407,7 @@
 
 .social-networks i {
     margin-right: 20px;
-    float:right;
+    float: right;
     position: relative;
     text-align: center;
     font-size: 120%;
@@ -437,7 +442,7 @@
 
 /* Responsive layout for differents devices*/
 @media (max-width: 900px) {
-    #times div{
+    #times div {
         width: 50%;
     }
 }
@@ -450,7 +455,8 @@
         max-width: 50%;
         flex-direction: column;
     }
-    #times div{
+
+    #times div {
         width: 100%;
     }
 }
