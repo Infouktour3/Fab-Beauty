@@ -84,6 +84,10 @@ I have tested the website on W3C Markup Validator and W3C CSS Validator Services
 
 ![W3C CSS Validator](docs/CssValidtor.png)
 
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
 ## Deploying
 The website has be deployed on git hub pages by complete the following steps:
 - Go to the main repository
