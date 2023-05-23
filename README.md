@@ -135,6 +135,6 @@ git clone https://github.com/YOUR-USERNAME/YOUR-
 
 ### Acknowledgements
 
--   To the tutor support at Code Institute.
+-   To the tutor support at Code Institute, Mentor and Slack mates.
 
 
