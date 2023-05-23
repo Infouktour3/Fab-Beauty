@@ -26,8 +26,7 @@ Looked into Balsamiq to have an idea and carried on with word file coverted in p
  2. User wants to check some new extra information through post and social media to see if the business is healfy, creating the social-media links give at the business more transparency and in the same time more trust at the user.
  3. User wants to sign up to book an appointment for treatments or consutation or simply to gather more info before go haed with the choise they want, on the contact us page the visitor will be able to sign-up with an easy steps form that will help the visitor to don't get boder if it is too complicated to fill in.
 
-### Design
-#### Colour Scheme
+### Design/Colour Scheme
      The predominate colour is pink with some grey and white gradiants to make some effect and make the site more attractive, with some light pink colour around the pages to be more tune with a beauty salon business.
     
 #### Typography
@@ -41,6 +40,7 @@ The first image is posted just straight under the header to catch the visitors a
 - Contact Us Page Wireframe - [View](docs/WIREFRAMESpage03.jpg)
 
 ## Features
+The website has an actractive approach for the user, easy to understand and very intuitive with images and iconas to driver the visitor attention and clearly help to understand the business without that the user gets lost, the first page contain the menu bar at the top with the logo on the left side and menu link interactive on the right side it helps to move from one page to another and return to the home page easily with one click. First page also is comprensive of time-table for opening hour and mobil-phone number to give more trust at the visitor, cliking the number can get the user on Contact Us page to be reach out from the business. At the bottom footer the user can find the social-media hyperlink that help them to visitor the socials in a different window and gathering more information about the business. The Gallery page which is the second page, is created with differents images related to the business like as products and treatments, it gives a broad idea to the visitor if the business can help them on their needs. The Contact Us page is the third page, in which has been created to drive the visitor to subscribe, signing up the form the user can be upadted all the times through email for new products or good treatments offer, plus they can book a treatment by completing the form or juts have more information from the business. The website has also the features to be responsive on all device sizes and contain interactive elements like hyperlinks, social-media, form sign-up, and menu bar.
   
 
 
