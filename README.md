@@ -95,10 +95,23 @@ The website is now live and can be found ![here](https://infouktour3.github.io/F
 
 ## Clone
 The website has been cloned in the GitHub platform from P1-Beauty to Fab-Beauty, following this steps:
-- GitHub home-page 
-- Repositories
-- Open the project
-- n the code bottom open the arrow list ,and press copy bottom and it will be cloned on the repositories page.
+- Git-Hub home-page 
+- Go Repositories main page
+- At the top left side click on <>Code
+- Click Local
+- Copy repository
+- Open Git-Bash
+- Change the current working directory to the location where you want the cloned directory.
+- Type git clone, and then paste the URL you copied (https://github.com/Infouktour3/Fab-Beauty.git).
+git clone https://github.com/YOUR-USERNAME/YOUR-
+- press enter
+> Cloning into `Fab-Beauty`...
+> remote: Enumerating objects: 524, done.
+> remote: Counting objects: 100% (524/524), done.
+> remote: Compressing objects: 100% (564/564), done.
+> remove: Total 524 (delta 263), reused 497 (delta 236), pack-reused 0
+> Receiving objects: 100% (524/524), 22.37 MiB | 14.39 MiB/s, done.
+> Resolving deltas: 100% (263/263), done.
 
 ### Code
 
